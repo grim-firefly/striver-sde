@@ -1,0 +1,2 @@
+others can be solved using Bruteforce O(n^2)
+by getting all possible subarray
